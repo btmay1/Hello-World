@@ -8,6 +8,6 @@ Print out my name
 #include<stdlib.h>
 
 int main(int argc, char **argv){
-	printf("Bryce May");
+	printf("Bryce May and Christian Eidahl");
 	return 0;
 }
